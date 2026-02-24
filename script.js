@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // --- 2. Action du bouton de contact ---
     const contactBtn = document.querySelector(".contact-btn");
     contactBtn.addEventListener("click", () => {
-        window.open("https://www.leboncoin.fr/ad/ventes_immobilieres/3130846323"); 
+        window.open("https://www.seloger.com/annonces/achat/maison/dagneux-01/258CMALPR15N.htm?serp_view=list&search=distributionTypes%3DBuy%2CBuy_Auction%2CCompulsory_Auction%26estateTypes%3DHouse%2CApartment%26locations%3DAD08FR132&sort_order_ab_test=sort_order_variant#ln=classified_search_results&m=classified_search_results_classified_classified_detail_M"); 
     });
 
 });
